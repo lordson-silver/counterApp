@@ -1,6 +1,6 @@
 // Declare Count
 var count = 0;
-// Creating increment and decrement function 
+// Creating increment and decrement function
 function add() {
     count++;};
 function sub() {
@@ -23,4 +23,6 @@ $("button").click(function(){
   countOp(userCount);
   animatePress(userCount);
   $("#counter").text(count);});
+  
+  
 // ©2022 https://github.com/lordson-silver

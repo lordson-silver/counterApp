@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+} 
+.head {
+  margin: 20px 0;
+} 
+.btn {
+  height: 50px;
+  margin: 0 5px;
+  padding: 5px;
+  width: 50px;
+} 
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}

@@ -24,4 +24,5 @@ $("button").click(function(){
   animatePress(userCount);
   $("#counter").text(count);});
   
+  
 // ©2022 https://github.com/lordson-silver
